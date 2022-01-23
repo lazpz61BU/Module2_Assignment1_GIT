@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+  background-color: rgb(243, 117, 117);
+}
+
+.header {
+  height: 100px;
+  background-color: maroon;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#text {
+  color: rgb(1, 94, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: center;
+  height: 100vh;
+}
